@@ -1,4 +1,4 @@
-## Tevin Morrison
+## Tev Morriso
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tmorriso93@gmail.com)](mailto:tmorriso93@gmail.com)
 
 
