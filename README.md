@@ -5,7 +5,7 @@
 Hi, I'm Tevin, a Web developer from Toronto, Canada.
 
 - :books: I’m currently learning the MEARN stack, & Swift.
-- :computer: Tech Stack: NODE<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  REACT<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  JAVASCRIPT<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  
+- :computer: Tech Stack: NODE <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  REACT <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  JAVASCRIPT <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  
 - :pushpin: Interests: Web Design & Photography.
 
 ⭐️ From [tmorriso93](https://github.com/tmorriso93)
