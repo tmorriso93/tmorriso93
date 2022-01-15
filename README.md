@@ -8,7 +8,5 @@ Hello, my name is Tevin and i'm a Web Developer from Toronto, Canada.
 - :pushpin:  Interests:  Web Development & Photography.
 -
 
-
-
 .
 ⭐️  From [tmorriso93](https://github.com/tmorriso93)
