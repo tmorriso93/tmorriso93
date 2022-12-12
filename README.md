@@ -1,4 +1,4 @@
-## T Morris
+## Tev Morris
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tmorriso93@gmail.com)](mailto:tmorriso93@gmail.com)
 
 Hello, my name is Tevin & i'm a Front End Developer from Toronto, Canada.
