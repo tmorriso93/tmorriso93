@@ -4,7 +4,7 @@
 Hello, my name is Tevin & i'm a Front End Developer from Toronto, Canada.
 
 - :books: MEARN stack.
-- :computer:  Tech Stack: HTML CSS JAVASCRIPT NODEJS MONGODB <img height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  REACT  <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
+- :computer: HTML CSS JAVASCRIPT NODEJS MONGODB <img height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  REACT  <img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
 - :pushpin:  Interests:  Web Development & Photography
 -
 -
