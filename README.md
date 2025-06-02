@@ -10,4 +10,3 @@ Hello, my name is Tevin & I'm a Front End Developer from Toronto, Canada.
 ⭐️  From [tmorriso93](https://github.com/tmorriso93)
 -
 -
--
