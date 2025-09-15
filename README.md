@@ -7,4 +7,4 @@ Hello, my name is Tevin & I'm a Front End Developer from Toronto, Canada.
 - :computer:
 - :pushpin:  Interests:  Web Development & Photography
 ⭐️  From [tmorriso93](https://github.com/tmorriso93)
-
+-
