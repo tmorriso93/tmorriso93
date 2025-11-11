@@ -1,5 +1,5 @@
 ## Tev Morris
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tmorriso@mailthink.net)](mailto:tmorriso@mailthink.net)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tmorrisojobs@mailthink.net)](mailto:tmorrisojobs@mailthink.net)
 
 Hello, my name is Tevin & I'm a Full Stack Developer from Toronto, Canada.
 
